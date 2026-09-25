@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+connect4_state.json
+decisions/
+data/connect4_progress.jsonl
